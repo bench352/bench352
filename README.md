@@ -8,7 +8,7 @@ These are some projects that I work on in my free time for fun. Criticism of my 
 
 ### [Personal Website](https://github.com/bench352/bench352.github.io)
 
-This would be a new home for my personal projects as well as other things about me. You can see it in action by going to [bench352.github.io](bench352.github.io)!
+This would be a new home for my personal projects as well as other things about me. You can see it in action by going to [bench352.github.io](https://bench352.github.io)!
 
 ### [Batch Update Tool](https://github.com/bench352/Batch-Update-Tool)
 
