@@ -6,6 +6,10 @@ I am a nerdy guy with strong enthusiasm for programming and other computer stuff
 
 These are some projects that I work on in my free time for fun. Criticism of my work is welcomed and appreciated!
 
+### [Personal Website](https://github.com/bench352/bench352.github.io)
+
+This would be a new home for my personal projects as well as other things about me. You can see it in action by going to [bench352.github.io](bench352.github.io)!
+
 ### [Batch Update Tool](https://github.com/bench352/Batch-Update-Tool)
 
 This Excel VBA add-in makes your work easier by providing tools that automatically update the name of a range of sheets or cell values with a specified sequence. You can also save the settings as "Quick Actions" and execute them quickly by selecting them in the "Quick Actions" menu.
