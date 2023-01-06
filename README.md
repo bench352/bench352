@@ -6,6 +6,10 @@ I am a nerdy guy with strong enthusiasm for programming and other computer stuff
 
 These are some projects that I work on in my free time for fun. Criticism of my work is welcomed and appreciated!
 
+### [Prior2Do](https://github.com/bench352/prior2do)
+
+Prior2Do is a to-do app that lets you plan your tasks. With the included Task Plan feature, you can schedule a date for working on the task and estimate how much time you need to finish it. A separate, deployable server is also available for backup and syncing your tasks across multiple devices.
+
 ### [Personal Website](https://github.com/bench352/bench352.github.io)
 
 This would be a new home for my personal projects as well as other things about me. You can see it in action by going to [bench352.github.io](https://bench352.github.io)!
@@ -17,10 +21,6 @@ This Excel VBA add-in makes your work easier by providing tools that automatical
 ### [Words To Vocabulary List](https://github.com/bench352/Word-to-Vocab-List)
 
 Words To Vocabulary List is a program that automatically generates a vocabulary list with English meaning, Chinese translation, synonyms, and antonyms (if available) from a list of words.
-
-### [Expense Management Spreadsheet](https://github.com/bench352/Expense-Management-Spreadsheet)
-
-Expense Management Spreadsheet is a macro-embedded Excel spreadsheet that I created for managing my expenses, savings, and inventory. You can use it to help manage your expense if you find it useful.
 
 ## Stay in Touch!
 
